@@ -96,14 +96,14 @@
 
 <table>
     <tr align="center">
-        <td><B>AOS 팀장<B></td>
+        <td><B>AOS<B></td>
         <td><B>AOS<B></td>
         <td><B>AOS<B></td>
         <td><B>AOS<B></td>
     </tr>
     <tr align="center">
         <td><B>황규일<B></td>
-        <td><B>이영준<B></td>
+        <td><B>이영준 팀장<B></td>
         <td><B>조준장<B></td>
         <td><B>최현정<B></td>
     </tr>
